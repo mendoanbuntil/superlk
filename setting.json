@@ -214,6 +214,17 @@
       ],
       "data-innerHTML":"",
       "position":"start"
+    },
+	    {
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"async",
+          "value-attribute":"https://arc.io/widget.min.js#XS5AchHn"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
     }
   ],
   "inject-element-body":[
