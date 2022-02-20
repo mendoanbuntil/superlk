@@ -3,7 +3,7 @@
   functions = "functions"
 
 [functions]
-  included_files = ["assets/*","sitemap/*","*"]
+  included_files = ["assets/*","sitemap/*","*","arc-sw.js"]
 
 [[redirects]]
   from = "/*"
