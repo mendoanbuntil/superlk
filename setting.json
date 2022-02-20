@@ -210,23 +210,23 @@
         {
           "name-attribute":"content",
           "value-attribute":"${authorPost}"
-        },
-     {
-      "name-element":"meta",
-      "data-attribute":[
-        {
-          "name-attribute":"name",
-          "value-attribute":"google-site-verification"
-        },
-        {
-          "name-attribute":"content",
-          "value-attribute":"Emy0dkgkXoj7QdCmiEnS2oTrSTYV3SXEl_KfqJszHGs"
         }
       ],
       "data-innerHTML":"",
       "position":"start"
     },
-	    {
+	{
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
+          "value-attribute":"google-site-verification=Emy0dkgkXoj7QdCmiEnS2oTrSTYV3SXEl_KfqJszHGs"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+    },
+	{
       "name-element":"script",
       "data-attribute":[
         {
