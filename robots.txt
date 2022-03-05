@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://infolowongankerja.netlify.app/sitemap.xml
+Sitemap: https://infolowongankerja.netlify.app/sitemap/sitemap-1.xml
