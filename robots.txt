@@ -2,6 +2,8 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
+Sitemap: https://infolowongankerja.netlify.app/sitemap.xml
+Sitemap: https://infolowongankerja.netlify.app/sitemap/sitemap-1.xml
 Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/sitemap_index.xml
 Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/post-sitemap1.xml
 Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/post-sitemap2.xml
