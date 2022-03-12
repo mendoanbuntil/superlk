@@ -15,6 +15,7 @@ Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/post-sitem
 Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/post-sitemap8.xml
 Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/post-sitemap9.xml
 Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/post-sitemap10.xml
+Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/post-sitemap11.xml
 Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/page-sitemap.xml
 Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/category-sitemap.xml
 Sitemap: https://infolowongankerja.netlify.app/host-https-disnaker.id/post_tag-sitemap.xml
