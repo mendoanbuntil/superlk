@@ -27,7 +27,7 @@
       ],
       "replace-string":[
         {
-          "target":"https://disnaker.id",
+          "target":"disnaker.id",
           "replace":"${nameWeb}"
         }
       ]
